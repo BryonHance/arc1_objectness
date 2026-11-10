@@ -2,4 +2,5 @@
 .pixi/*
 !.pixi/config.toml
 *.pyc
-.ipynb_checkpoints/*
+src/arc1_objectness/.ipynb_checkpoints/*
+*checkpoint.ipynb
